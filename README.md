@@ -1,3 +1,10 @@
-Hi Sinpu.This class is Git Tutorial.
+//Hi Sinpu.This class is Git Tutorial.
 
-This file is readme file.
+//This file is readme file.
+
+class Main{
+
+      public static void main (String[] args){
+      	     System.out.println("Hello World");
+	     }
+}
